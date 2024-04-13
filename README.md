@@ -1,5 +1,3 @@
-[![author](https://img.shields.io/badge/author-rafaelnduarte-red.svg)]([https://www.linkedin.com/in/rafael-n-duarte/](https://www.linkedin.com/authwall?trk=bf&trkInfo=AQENwY58yvYxFQAAAY7ZbQtQpvfXUfjZE6K7BV3dAbaPXjZJZFJOZVZm9NWXsQK4BMowGnd-DYpeg1K0RD2Z30MlbwBl7RBwGUTGvHuBtbRdIOiaum1d1B5Sm61hnFtgD7cPfow=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsaurabh-zulkanthiwar-3396225a%2F)) [![](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/rafaelnduarte/portfolio/Lead_Scoring
-)
 
 # Lead Scoring
 
